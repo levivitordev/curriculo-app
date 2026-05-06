@@ -1,0 +1,1 @@
+export const API_URL = 'https://curriculo-api-beige-theta.vercel.app';
