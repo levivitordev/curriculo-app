@@ -28,6 +28,19 @@
     },
     "plugins": [
       "expo-router"
-    ]
+    ],
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "551661cb-9896-407f-a983-b925542c83ea"
+      }
+    },
+    "owner": "vitxr",
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/551661cb-9896-407f-a983-b925542c83ea"
+    }
   }
 }
