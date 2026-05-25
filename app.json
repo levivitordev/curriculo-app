@@ -2,7 +2,6 @@
   "expo": {
     "name": "Currículo App",
     "slug": "curriculo-app",
-    "owner": "levivitor",
     "scheme": "curriculo-app",
     "version": "1.0.0",
     "orientation": "portrait",
@@ -36,7 +35,7 @@
         "projectId": "551661cb-9896-407f-a983-b925542c83ea"
       }
     },
-    "owner": "vitxr",
+    "owner": "levivitor",
     "runtimeVersion": {
       "policy": "appVersion"
     },
